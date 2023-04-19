@@ -1,0 +1,8 @@
+{
+  "name": "partyNOW",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "81f0a5a3"
+}

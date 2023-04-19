@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "partyNOW",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
